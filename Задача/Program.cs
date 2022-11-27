@@ -1,16 +1,5 @@
 ﻿
-/*
-string[,] array = new string[2, 5];
 
-for (int i = 0; i < 2; i++)
-{
-    for (int j = 0; j < 5; j++)
-    {
-        array[i, j] = "word";
-        Console.Write($"{array[i, j]} ");
-    }
-    Console.WriteLine();
-}
 
 */
 string[,] CreatStringArray()
