@@ -1,0 +1,15 @@
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\obj\Debug\net6.0\Итоговый проект.csproj.AssemblyReference.cache
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\obj\Debug\net6.0\Итоговый проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\obj\Debug\net6.0\Итоговый проект.AssemblyInfoInputs.cache
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\obj\Debug\net6.0\Итоговый проект.AssemblyInfo.cs
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\obj\Debug\net6.0\Итоговый проект.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\bin\Debug\net6.0\Итоговый проект.exe
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\bin\Debug\net6.0\Итоговый проект.deps.json
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\bin\Debug\net6.0\Итоговый проект.runtimeconfig.json
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\bin\Debug\net6.0\Итоговый проект.dll
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\bin\Debug\net6.0\Итоговый проект.pdb
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\obj\Debug\net6.0\Итоговый проект.dll
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\obj\Debug\net6.0\refint\Итоговый проект.dll
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\obj\Debug\net6.0\Итоговый проект.pdb
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\obj\Debug\net6.0\Итоговый проект.genruntimeconfig.cache
+C:\Users\Валерия\Desktop\Обучение IT\Обучение GeekBrains\Блок 4 знакомство с языками программирования\Итоговый проект\obj\Debug\net6.0\ref\Итоговый проект.dll
